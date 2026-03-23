@@ -25,12 +25,12 @@ Key Features
 Tools & Technologies
 
 - Power BI (Data Visualization)
-- Excel  (Dataset)
+- Excel/csv  (Dataset)
 
 Project Files
 
 - "car dashboard.pbix"  Power BI Dashboard
-- "car_sales_2025_india_updated.xlsx"  Dataset (India 2025)
+- "car_sales_2025_india_updated.csv"  Dataset (India 2025)
 - "images/"  Dashboard screenshots
 
 Key Insights
